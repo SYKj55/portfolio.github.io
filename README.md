@@ -44,4 +44,4 @@ EDA and predictive analysis
 - tested multiple algorithms for a comparative view on the results of each
 
 
-### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+### Technical Skills: Python, SQL, Tensorflow, Streamlit, MATLAB
